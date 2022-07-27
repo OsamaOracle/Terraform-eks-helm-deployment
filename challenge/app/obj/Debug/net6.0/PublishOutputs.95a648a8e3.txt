@@ -1,0 +1,7 @@
+/home/kostas/personal/webapp/MyWebApp/app/bin/Debug/net6.0/publish/MyWebApp
+/home/kostas/personal/webapp/MyWebApp/app/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/kostas/personal/webapp/MyWebApp/app/bin/Debug/net6.0/publish/appsettings.json
+/home/kostas/personal/webapp/MyWebApp/app/bin/Debug/net6.0/publish/MyWebApp.dll
+/home/kostas/personal/webapp/MyWebApp/app/bin/Debug/net6.0/publish/MyWebApp.deps.json
+/home/kostas/personal/webapp/MyWebApp/app/bin/Debug/net6.0/publish/MyWebApp.runtimeconfig.json
+/home/kostas/personal/webapp/MyWebApp/app/bin/Debug/net6.0/publish/MyWebApp.pdb

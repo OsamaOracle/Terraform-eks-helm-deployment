@@ -1,0 +1,4 @@
+/app/build/appsettings.Development.json
+/app/build/appsettings.json
+/app/build/MyWebApp.staticwebassets.runtime.json
+/app/build/MyWebApp

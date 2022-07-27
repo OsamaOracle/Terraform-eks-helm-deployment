@@ -1,0 +1,33 @@
+---
+replicaCount: 1
+
+image:
+  repository: 742975428240.dkr.ecr.eu-west-1.amazonaws.com/challenge
+  pullPolicy: IfNotPresent
+  tag: 	latest
+
+serviceAccount:
+  create: true
+  name: ""
+
+service:
+  type: ClusterIP
+  port: 80
+
+resources:
+  limits:
+    cpu: 200m
+    memory: 200Mi
+  requests:
+    cpu: 100m
+    memory: 100Mi
+
+autoscaling:
+  enabled: false
+  minReplicas: 1
+  maxReplicas: 3
+
+container:
+  env:
+   - name: "ASPNETCORE_URLS"
+     value: "http://+:5000"
