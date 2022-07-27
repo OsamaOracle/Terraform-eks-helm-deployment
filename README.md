@@ -1,7 +1,7 @@
 # Terraform-eks-helm-deployment
 Sample code to deploy EKS plus a helm using terraform
 
-##### This code will deploy the following resource on AWS:-
+##### This code will create the following resource on AWS:-
 - VPC.
 - Subnet (Public subnet,private subnet).
 - nat gateway
